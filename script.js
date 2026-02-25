@@ -2,7 +2,7 @@
 (() => {
   // ✅ Вставь номер WhatsApp (только цифры, без +)
   // пример: 77001234567
-  const WHATSAPP_NUMBER = "77000000000";
+  const WHATSAPP_NUMBER = "77767464242";
 
   const year = document.getElementById("year");
   const waBtn = document.getElementById("waButton");
